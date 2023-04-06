@@ -1,0 +1,5 @@
+openai
+gtts
+openai_whisper
+google-api-python-client
+oauth2client
